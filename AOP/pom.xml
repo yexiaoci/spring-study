@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.spring</groupId>
-  <artifactId>IoC</artifactId>
+  <artifactId>AOP</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>IoC</name>
+  <name>AOP</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -16,43 +16,68 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
-  </properties>
-  <!--依赖包-->
-  <dependencies>
-  <dependency>
-    <groupId>org.springframework</groupId>
-    <artifactId>spring-context</artifactId>
-    <version>5.0.10.RELEASE</version>
-  </dependency>
-  <!--Lombok依赖-->
-  <dependency>
-    <groupId>org.projectlombok</groupId>
-    <artifactId>lombok</artifactId>
-    <version>1.16.18</version>
-    <scope>provided</scope>
-  </dependency>
+    <spring.version>5.1.5.RELEASE</spring.version>
+    <aspectj.version>1.9.2</aspectj.version>
+    <junit.version>4.12</junit.version>
+    <log4j.version>1.2.27</log4j.version>
+    <slf4j.version>1.7.12</slf4j.version>
 
-  <!-- log4j日志文件包 -->
-  <dependency>
-    <groupId>org.slf4j</groupId>
-    <artifactId>slf4j-api</artifactId>
-    <version>1.6.6</version>
-  </dependency>
-  <dependency>
-    <groupId>org.slf4j</groupId>
-    <artifactId>slf4j-log4j12</artifactId>
-    <version>1.6.6</version>
-  </dependency>
-  <dependency>
-    <groupId>log4j</groupId>
-    <artifactId>log4j</artifactId>
-    <version>1.2.16</version>
-  </dependency>
-  <dependency>
-    <groupId>org.springframework</groupId>
-    <artifactId>spring-test</artifactId>
-    <version>5.0.10.RELEASE</version>
-  </dependency>
+  </properties>
+
+  <!--spring-context依赖-->
+  <dependencies>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>5.0.10.RELEASE</version>
+    </dependency>
+    <!--Lombok依赖-->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.16.18</version>
+      <scope>provided</scope>
+    </dependency>
+    <!--aop依赖-->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-aop</artifactId>
+      <version>5.0.10.RELEASE</version>
+    </dependency>
+    <!--aspectj依赖-->
+    <dependency>
+      <groupId>org.aspectj</groupId>
+      <artifactId>aspectjrt</artifactId>
+      <version>${aspectj.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.aspectj</groupId>
+      <artifactId>aspectjweaver</artifactId>
+      <version>${aspectj.version}</version>
+    </dependency>
+    <!-- log4j日志文件包 -->
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.6.6</version>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-log4j12</artifactId>
+      <version>1.6.6</version>
+    </dependency>
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.16</version>
+    </dependency>
+    <!--spring-text依赖-->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-test</artifactId>
+      <version>5.0.10.RELEASE</version>
+    </dependency>
+    <!--junit依赖-->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
