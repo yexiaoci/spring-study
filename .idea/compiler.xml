@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -9,14 +10,18 @@
         <module name="AOP" />
         <module name="helloworld" />
         <module name="IoC" />
+        <module name="ORM" />
         <module name="quickstart" />
+        <module name="web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AOP" target="1.7" />
       <module name="helloworld" target="1.7" />
       <module name="IoC" target="1.7" />
+      <module name="ORM" target="8" />
       <module name="quickstart" target="1.8" />
+      <module name="web" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
