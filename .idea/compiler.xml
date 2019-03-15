@@ -12,7 +12,6 @@
         <module name="IoC" />
         <module name="ORM" />
         <module name="quickstart" />
-        <module name="web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

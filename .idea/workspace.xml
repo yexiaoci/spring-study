@@ -7,65 +7,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7e6d998-a614-4a97-9487-e3ac778ff3dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/springMVC-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/resources/spring_mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/src/com/spring/web/controller/CourseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/src/com/spring/web/dao/BaseDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/src/com/spring/web/dao/CourseDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/src/com/spring/web/dao/SysUserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/src/com/spring/web/entity/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/src/com/spring/web/entity/CourseVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/src/com/spring/web/entity/SysUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/src/com/spring/web/service/CourseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/src/com/spring/web/service/impl/CourseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/src/com/spring/web/util/CORSFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/src/com/spring/web/util/ResponseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/test/java/com/spring/web/service/impl/CourseServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/web_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/web_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AOP/AOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP/AOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AOP/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AOP/src/main/java/com/spring/aop/MyBeforeAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/AOP/src/main/java/com/spring/aop/MyBeforeAdvice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/spring/aop/MyBeforeAdvice.class" beforeDir="false" afterPath="$PROJECT_DIR$/AOP/target/classes/com/spring/aop/MyBeforeAdvice.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AOP/target/classes/com/spring/image/aaa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IoC/IoC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IoC/IoC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/classes/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/classes/com/spring/quickstart/anantation/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/classes/com/spring/quickstart/anantation/HelloWorldApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/classes/com/spring/quickstart/anantation/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/classes/com/spring/quickstart/anantation/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/classes/com/spring/quickstart/anantation/StudentApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/classes/com/spring/quickstart/hello/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/classes/com/spring/quickstart/hello/HelloWorldApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/classes/com/spring/quickstart/hello/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/classes/com/spring/quickstart/hello/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/classes/com/spring/quickstart/hello/StudentApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/my_log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/my_log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/logs/my_log.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/springMVC-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/spring_mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/src/com/spring/web/controller/CourseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/src/com/spring/web/dao/BaseDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/src/com/spring/web/dao/CourseDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/src/com/spring/web/dao/SysUserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/src/com/spring/web/entity/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/src/com/spring/web/entity/CourseVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/src/com/spring/web/entity/SysUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/src/com/spring/web/service/CourseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/src/com/spring/web/service/impl/CourseServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/src/com/spring/web/util/CORSFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/src/com/spring/web/util/ResponseUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/test/java/com/spring/web/service/impl/CourseServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/META-INF/web.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/spring/web/controller/CourseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/spring/web/dao/BaseDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/spring/web/dao/CourseDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/spring/web/dao/SysUserDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/spring/web/entity/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/spring/web/entity/CourseVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/spring/web/entity/SysUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/spring/web/service/CourseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/spring/web/service/impl/CourseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/spring/web/util/CORSFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/spring/web/util/ResponseUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/springMVC-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/spring_mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/test-classes/META-INF/web.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/test-classes/com/spring/web/service/impl/CourseServiceImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/quickstart/target/" />
     <ignored path="$PROJECT_DIR$/IoC/target/" />
@@ -97,22 +84,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/src/test/java/com/spring/web/service/impl/CourseServiceImplTest.java">
+        <entry file="file://$PROJECT_DIR$/AOP/src/main/java/com/spring/image/aaa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/main/src/com/spring/web/service/impl/CourseServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="418">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,7 +109,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AOP" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -226,7 +201,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-205" />
     <option name="width" value="1180" />
     <option name="height" value="1040" />
@@ -240,126 +215,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -590,10 +446,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49853373" visible="true" weight="0.22587131" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49853373" visible="true" weight="0.22855228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -613,7 +468,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Spring" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.39442816" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.49865952" visible="true" weight="0.40469208" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49865952" visible="true" weight="0.2404692" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -632,6 +487,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="spring-study fourth" />
     <option name="LAST_COMMIT_MESSAGE" value="spring-study fourth" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AOP/src/main/java/com/spring/image/aaa.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -773,16 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ORM/src/main/java/com/spring/orm/dao/BaseDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1002,10 +859,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/test/java/com/spring/web/service/impl/CourseServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/src/main/src/com/spring/web/service/impl/CourseServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="352">
           <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ORM/src/main/java/com/spring/orm/dao/BaseDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1014,15 +891,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AOP/src/main/java/com/spring/image/aaa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="418">
           <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/test/java/com/spring/web/service/impl/CourseServiceImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
